@@ -32,7 +32,7 @@ Chaos ChatRoom is a real-time chat application built using React and Firebase. I
 2.  ### Change to the project directory:
 
     ```bash
-    cd chaos
+    cd chaos-chat-app
     ```
 3.  ### Install Dependencies:
    
